@@ -1,4 +1,4 @@
-<h2 align="center">Olá 👋, meu nome é Raquel, Sejam todos bem vindos ao meu perfil!</h2>
+<h2 align="left">Olá 👋, meu nome é Raquel, sejam todos bem vindos ao meu perfil!</h2>
 
 ###
 
@@ -26,3 +26,7 @@
 </div>
 
 ###
+Github
+Donate
+Share
+Privacy Policy
